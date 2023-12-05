@@ -60,6 +60,10 @@ Be sure to select an artifact and click on `view lineage`:
 
 <img src="./imgs/artifact-lineage.png" width="1200"/>
 
+#### Using pipeline components
+
+Official guide [here](https://cloud.google.com/vertex-ai/docs/pipelines/use-components#consume_or_produce_artifacts_in_your_component)
+Notebook [here](./Intro to Vertex Pipelines.ipynb)
 _______________
 #### Other Guides
 https://cloud.google.com/vertex-ai/docs/pipelines/use-components#consume_or_produce_artifacts_in_your_component
