@@ -1,2 +1,3 @@
 artifact_pipeline_example.json
 *.json
+tabular_eval_component.yaml
